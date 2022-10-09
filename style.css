@@ -72,6 +72,10 @@ h1:hover {
   color: var(--cyan);
 }
 
+a {
+  text-decoration: none;
+}
+
 p {
   font-size: 1.125rem;
   font-weight: 300;
@@ -143,7 +147,6 @@ hr {
 
 .attribution a {
   color: var(--white);
-  text-decoration: none;
 }
 
 .attribution a:hover {
