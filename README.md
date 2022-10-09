@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Marchino5791/Frontend-Mentor-NTF-Preview-Carde](https://github.com/Marchino5791/Frontend-Mentor-NTF-Preview-Card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://marchino5791.github.io/Frontend-Mentor-NTF-Preview-Card/](https://marchino5791.github.io/Frontend-Mentor-NTF-Preview-Card/)
 
 ## My process
 
