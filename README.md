@@ -33,7 +33,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
 - [Google Fonts](https://fonts.google.com/) - For fonts
 
 ### What I learned
